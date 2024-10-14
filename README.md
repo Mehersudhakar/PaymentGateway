@@ -1,4 +1,4 @@
-# PaymentGateway
+# Payment Gateway
 
 This project is a simple web page designed to encourage donations for children in need. It features a visually appealing interface and links to various sections like home, programs, and contact. The page is responsive and includes smooth scrolling, animated text, and a donation button that redirects users to a donation page.
 
