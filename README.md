@@ -1,7 +1,5 @@
 # PaymentGateway
 
-# Donation for Kids Website
-
 ## How to Run
 
 1. Download or clone the repository to your local machine.
@@ -10,3 +8,6 @@
 4. Run the following command to start a local server:
    ```bash
    python3 -m http.server 8000
+5. Open your web browser and go to:
+   ```bash
+   http://localhost:8000
